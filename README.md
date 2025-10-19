@@ -9,8 +9,6 @@ The app allows users to:
 - Add or remove countries from their **favourites list**  
 - Store user-specific favourites in a **Supabase database**
 
-Deployed optionally on **Vercel** (deployment optional for this assignment).
-
 ---
 
 ## 🧰 Technologies Used
